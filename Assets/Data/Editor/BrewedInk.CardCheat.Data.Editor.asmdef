@@ -1,0 +1,19 @@
+{
+    "name": "BrewedInk.CardCheat.Data.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:449e1dfd0fd20264f96b392bc63e106d",
+        "GUID:cdc16010129a6d243ae92aed41328deb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

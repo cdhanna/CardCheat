@@ -1,0 +1,15 @@
+{
+    "name": "BrewedInk.CardCheat.Core",
+    "rootNamespace": "BrewedInk.CardCheat.Core",
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "CardCheatEventGenerator.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

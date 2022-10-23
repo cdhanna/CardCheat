@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a85ce7d486591e449924ecd074878302, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  game:
+    player:
+      data:
+        abilities: []
+        maxHandSize: 4
+        holdCard:
+          value: 4
+          suit: 0
+        hasCard: 0
+        healthPoints: 4
+      position: {x: 4, y: 4}
+    enemies: []
+    hasSelectedPosition: 0
+    hasSelectedAbility: 0
+    selectedPosition: {x: 0, y: 0}
+    selectedAbility:
+      type: 0
+    deck:
+      drawChances:
+      - type: 0
+        weight: 3
+      - type: 1
+        weight: 1
+      - type: 2
+        weight: 1
+      - type: 3
+        weight: 0
+      - type: 11
+        weight: 2
+      - type: 4
+        weight: 0
+      - type: 7
+        weight: 0
+      - type: 8
+        weight: 0
+      - type: 12
+        weight: 0
+    turnState: 0
+    randomSeed: -1
+    combo: 0
+    score: 0
+    discardCount: 0
+    discardState: 0

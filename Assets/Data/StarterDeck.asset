@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712f2d3043e9468fbc19b9d5e112d1fc, type: 3}
+  m_Name: StarterDeck
+  m_EditorClassIdentifier: 
+  clubsArt:
+    symbol: {fileID: -1348159599, guid: 9653180d4249b074aa8253ffb367a99d, type: 3}
+    color: {r: 0.39607847, g: 0.39607847, b: 0.39607847, a: 1}
+  heartsArt:
+    symbol: {fileID: -173826699, guid: 9653180d4249b074aa8253ffb367a99d, type: 3}
+    color: {r: 0.7254902, g: 0.03137255, b: 0.03137255, a: 1}
+  diamondsArt:
+    symbol: {fileID: 6956679, guid: 9653180d4249b074aa8253ffb367a99d, type: 3}
+    color: {r: 0.7254902, g: 0.03137255, b: 0.03137255, a: 1}
+  spadeArt:
+    symbol: {fileID: 1960833500, guid: 9653180d4249b074aa8253ffb367a99d, type: 3}
+    color: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
+  indexToDisplay:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - J
+  - Q
+  - K
+  - A
